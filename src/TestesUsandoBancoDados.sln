@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVendas", "ClassLibrary1\SistemaVendas.csproj", "{E5E68A47-909F-497E-9B9C-0881A83CF90D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{52922A0B-2B59-41D7-8D0E-1FE18AE5AB70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E68A47-909F-497E-9B9C-0881A83CF90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E68A47-909F-497E-9B9C-0881A83CF90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E68A47-909F-497E-9B9C-0881A83CF90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E68A47-909F-497E-9B9C-0881A83CF90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52922A0B-2B59-41D7-8D0E-1FE18AE5AB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52922A0B-2B59-41D7-8D0E-1FE18AE5AB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52922A0B-2B59-41D7-8D0E-1FE18AE5AB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52922A0B-2B59-41D7-8D0E-1FE18AE5AB70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
